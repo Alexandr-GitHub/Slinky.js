@@ -22,8 +22,6 @@ To get started with Slinky.js, you can include it directly in your HTML file or 
 
 ### Via npm
 
-Does not include CSS
-
 ```bash
 npm install slinky-menu
 ```
