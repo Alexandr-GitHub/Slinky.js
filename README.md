@@ -14,7 +14,7 @@ Slinky.js is a lightweight and flexible JavaScript library designed to create mu
 
 To get started with Slinky.js, you can include it directly in your HTML file or install it via a package manager.
 
-### Via html
+### HTML
 ```html
 <link rel="stylesheet" href="slinky.css">
 <script src="slinky.js"></script>
@@ -106,7 +106,7 @@ To work with Slinky.js, your HTML must follow a specific structure. Here is a ba
 | backButtonSelector        | string | .slinky-back    | CSS selector for the back button.                                 |
 | parentSelector            | string | .menu-parent     | CSS selector for parent menu items.                               |
 | childSelector             | string | .menu-child      | CSS selector for child menu items.                                |
-| transitionSpeed           | string | 300              | Speed of the transition animations in milliseconds.               |
+| transitionSpeed           | int | 300              | Speed of the transition animations in milliseconds.               |
 | defaultTitle              | string | Menu             | Default title displayed in the menu.                              |
 | openedClass               | string | opened           | Class added to opened menu items.                                 |
 | showBtnClass              | string | show             | Class for showing the back button when a menu is open.           |

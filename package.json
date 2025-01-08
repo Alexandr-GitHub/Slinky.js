@@ -1,0 +1,19 @@
+{
+  "name": "slinky-menu",
+  "version": "1.0.0",
+  "description": "Slinky menu in vanilla JavaScript",
+  "main": "slinky.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexandr-GitHub/Slinky.js.git"
+  },
+  "author": "Alexandr Shcherbakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexandr-GitHub/Slinky.js/issues"
+  },
+  "homepage": "https://github.com/Alexandr-GitHub/Slinky.js#readme"
+}
