@@ -31,7 +31,7 @@ npm install slinky-menu
 To create a new Slinky instance, instantiate it with the desired selector and options:
 
 ```javascript
-import { Slinky } from 'slinky.js';
+import { Slinky } from 'slinky-menu';
 
 const myMenu = new Slinky('.my-menu', {
     transitionSpeed: '300',
