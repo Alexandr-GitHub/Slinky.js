@@ -1,6 +1,6 @@
 {
   "name": "slinky-menu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Slinky menu in vanilla JavaScript",
   "main": "slinky.js",
   "scripts": {
